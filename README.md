@@ -5,7 +5,7 @@
 </p>
 
 <p>
-These days if I'm not hacking on the keyboard I might be flying drones, watching/playing some kind of sports, smoking a brisket Texas BBQ style, being amazed by astronomy, or catching up on one of my favorite movies or television series.
+These days if I'm not hacking on the keyboard I might be flying drones, watching/playing some kind of sports, smoking a brisket Texas BBQ style, being amazed by astronomy, listening to podcasts, or catching up on one of my favorite movies or television series.
 
 </p>
 
