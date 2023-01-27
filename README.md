@@ -19,7 +19,7 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 - 2000: Hey what's this `RedHat Linux` OS all about? Seems safer to mess around with than Napster. Also what's this ".NET" thing Microsoft is releasing Beta versions of?
 - 2001: `C#`, `ASP.NET`, `.NET Remoting`, and the dot com collapse. Which for some reason made me get into `JavaScript` more.
 - 2002-2005: Lotsa `.NET` and `SQL Server`. `Vault` for source control.
-- 2005-2010: Even more `SQL Server` including `SSRS`, `SSIS`, `SSAS`, and various `ETL` and `BI/Reporting` platforms.
+- 2005-2010: Even more `SQL Server` including `SSRS`, `SSIS`, `SSAS`, and various `ETL` and `BI/Reporting` platforms. Still `C#` and `ASP.NET` on the dev side of things.
 - 2011: `NodeJS`, `WPF`, `WCF`, `SVG`, `JSON`, (great acronym btw, always gets my attention) and `ASP.NET MVC`. `Subversion` for source control. Also `Augmented Reality` with `Unity` game dev platform.
 - 2012-2014: More `NodeJS` and a long list of NPM Packages. More `.NET`. Started using `Git` for the first time. Also MVVM JS libraries like `Angular`, `Backbone` and `KnockoutJS`. Some `MongoDB` as well.
 - 2015-2020: `Azure`, `.NET Core`, `Python`, `TypeScript` and `Microservices`, and launched a fantasy tennis game for a couple of years. Eclectic mixture of `TFS`, `VSTS` and `Git` for source control. `Jenkins` for CI/CD.
