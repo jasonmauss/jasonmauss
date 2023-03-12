@@ -66,6 +66,7 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 #  
 
 <p>
+
 ### Stats
 ---
 
