@@ -65,8 +65,6 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <img alt="HackerRank" title="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />
 </p>
 
-#  
-
 
 ### Stats  
 ---
