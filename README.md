@@ -46,6 +46,7 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <img align="left" alt="CSS 3" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/css3/1572B6" />
 <img align="left" alt="SVG" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/svg/FFB13B" />
 <img align="left" alt="JavaScript" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<br />
 <img align="left" alt="JQuery" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/jquery/0769AD" />
 <img align="left" alt="Flutter" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/flutter/02569B" />
 <img align="left" alt="App Store" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/appstore/0D96F6" />
@@ -60,15 +61,22 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <img align="left" alt="SauceLabs" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/saucelabs/E2231A" />
 <img align="left" alt="LeetCode" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/leetcode/FFA116" />
 <img align="left" alt="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />
-<br />
+
+#
+
+---
+
+#
 
 #
 
 ### Stats
 
-![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonmauss&show_icons=true&theme=gruvbox)
+![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonmauss&show_icons=true&theme=github_dark)
 
-![Jason's GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=gruvbox&border_radius=4.5)
+![Jason's GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=github_dark&border_radius=4.5)
+
+![Jason's Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonmauss&theme=github_dark")
 ---
 
 #
