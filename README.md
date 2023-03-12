@@ -29,6 +29,7 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 
 
 ### Languages and Tools
+---
 
 <img align="left" alt=".NET" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/dotnet/512BD4" />
 <img align="left" alt="C#" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/csharp/239120" />
@@ -59,20 +60,21 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <img align="left" alt="Redis" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/redis/DC382D" />
 <img align="left" alt="SauceLabs" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/saucelabs/E2231A" />
 <img align="left" alt="LeetCode" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/leetcode/FFA116" />
-<img align="left" alt="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />
+<img align="left" alt="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />  
+<br>
 
-#
-
+#   
 
 ### Stats
+---
 
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonmauss&show_icons=true&theme=github_dark)
 
 ![Jason's GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=github_dark&border_radius=4.5)
 
 ![Jason's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonmauss&theme=github_dark)
-
-#
+</div>
+#  
 
 <p>
 What else can I say?
