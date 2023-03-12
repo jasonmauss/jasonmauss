@@ -28,7 +28,40 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 </p>
 
 <p>
+### Languages and Tools
 
+<img align="left" alt=".NET" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/dotnet/512BD4" />
+<img align="left" alt="C#" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/csharp/239120" />
+<img align="left" alt="SQL Server" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+<img align="left" alt="TypeScript" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/typescript/3178C6" />
+<img align="left" alt="Angular" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/angular/DD0031" />
+<img align="left" alt="Git" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/git/F05032" />
+<img align="left" alt="HTML" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/html/E34F26" />
+<img align="left" alt="CSS" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/css/1572B6" />
+<img align="left" alt="JavaScript" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<img align="left" alt="Flutter" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/flutter/02569B" />
+<img align="left" alt="Flutter" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/flutter/02569B" />
+<img align="left" alt="App Store" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/appstore/0D96F6" />
+<img align="left" alt="Google Play" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/googleplay/414141" />
+<img align="left" alt="Terraform" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/terraform/7B42BC" />
+<img align="left" alt="NodeJS" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/nodejs/339933" />
+<img align="left" alt="Python" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/python/3776AB" />
+<img align="left" alt="GitHub" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/181717" />
+<img align="left" alt="Azure DevOps" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/azuredevops/0078D7" />
+<img align="left" alt="Microsoft Azure" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />
+<img align="left" alt="SauceLabs" height="32" width="32" style="padding-right:10px;" src="https://cdn.simpleicons.org/saucelabs/E2231A" />
+<br />
+</p>
+
+<p>
+### Stats
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmauss&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=gruvbox&border_radius=4.5) -->
+</p>
+
+<p>
 What else can I say?
 
 - 🔭 If I'm not writing code for work, I'm probably doing some [LeetCode](https://leetcode.com/jamauss/) or [HackerRank](https://www.hackerrank.com/jason_mauss) challenges.
