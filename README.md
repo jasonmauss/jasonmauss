@@ -61,8 +61,8 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <img align="left" alt="SauceLabs" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/saucelabs/E2231A" />
 <img align="left" alt="LeetCode" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/leetcode/FFA116" />
 <img align="left" alt="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />  
-<br>
 
+#   
 #   
 
 ### Stats
@@ -73,8 +73,8 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 ![Jason's GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=github_dark&border_radius=4.5)
 
 ![Jason's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonmauss&theme=github_dark)
-</div>
-#  
+
+#   
 
 <p>
 What else can I say?
