@@ -1,7 +1,7 @@
 ### Hello World 👋
 ---
 
-<p><img alt="Jason Mauss back in the early 80's" align="right" src="Me1985.jpg" style="margin-left:20px;height:240px;width:241px;" />You're probably wondering how I went from a cute little 80's kid posing like Burt Reynolds in that picture to the grizzled old coder I am today. I guess life, uh, finds a way. 🦖
+<p><img alt="Jason Mauss back in the early 80's" align="right" src="Me1985.jpg" style="margin-left:20px;height:240px;width:241px;border:solid 2px blue;" />You're probably wondering how I went from a cute little 80's kid posing like Burt Reynolds in that picture to the grizzled old coder I am today. I guess life, uh, finds a way. 🦖
 </p>
 
 <p>
