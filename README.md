@@ -48,6 +48,7 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <img align="left" alt="SVG" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/svg/FFB13B" />
 <img align="left" alt="JavaScript" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
 <img align="left" alt="JQuery" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/jquery/0769AD" />
+<img align="left" alt="Dart" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/dart/0175C2" />
 <img align="left" alt="Flutter" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/flutter/02569B" />
 <img align="left" alt="App Store" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/appstore/0D96F6" />
 <img align="left" alt="Google Play" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/googleplay/414141" />
@@ -62,8 +63,7 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <img align="left" alt="LeetCode" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/leetcode/FFA116" />
 <img align="left" alt="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />  
 
-#   
-#   
+#  
 
 ### Stats
 ---
