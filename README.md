@@ -30,44 +30,45 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 
 ### Languages and Tools
 ---
+<p>
 
-<img align="left" alt=".NET" title=".NET" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/dotnet/512BD4" />
-<img align="left" alt="C#" title="C#" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/csharp/239120" />
-<img align="left" alt="Visual Studio" title="Visual Studio" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
-<img align="left" alt="SQL Server" title="SQL Server" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
-<img align="left" alt="MySQL" title="MySQL" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/mysql/4479A1" />
-<img align="left" alt="Mongo DB" title="Mongo DB" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/mongodb/47A248" />
-<img align="left" alt="TypeScript" title="TypeScript" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/typescript/3178C6" />
-<img align="left" alt="Angular" title="Angular" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/angular/DD0031" />
-<img align="left" alt="Swagger" title="Swagger" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/swagger/85EA2D" />
-<img align="left" alt="Postman" title="Postman" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/postman/FF6C37" />
-<img align="left" alt="Git" title="Git" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/git/F05032" />
-<img align="left" alt="HTML 5" title="HTML 5" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/html5/E34F26" />
-<img align="left" alt="CSS 3" title="CSS 3" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/css3/1572B6" />
-<img align="left" alt="SVG" title="SVG" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/svg/FFB13B" />
-<img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
-<img align="left" alt="JQuery" title="JQuery" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/jquery/0769AD" />
-<img align="left" alt="Dart" title="Dart" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/dart/0175C2" />
-<img align="left" alt="Flutter" title="Flutter" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/flutter/02569B" />
-<img align="left" alt="App Store" title="Apple App Store" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/appstore/0D96F6" />
-<img align="left" alt="Google Play" title="Google Play Store" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/googleplay/414141" />
-<img align="left" alt="Terraform" title="Terraform" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/terraform/7B42BC" />
-<img align="left" alt="NodeJS" title="Node JS" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/nodedotjs/339933" />
-<img align="left" alt="Python" title="Python" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/python/3776AB" />
-<img align="left" alt="GitHub" title="GitHub" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/github/181717" />
-<img align="left" alt="Azure DevOps" title="Azure DevOps" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/azuredevops/0078D7" />
-<img align="left" alt="Microsoft Azure" title="Microsoft Azure" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />
-<img align="left" alt="Redis" title="Redis" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/redis/DC382D" />
-<img align="left" alt="SauceLabs" title="Sauce Labs" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/saucelabs/E2231A" />
-<img align="left" alt="LeetCode" title="LeetCode" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/leetcode/FFA116" />
-<img align="left" alt="HackerRank" title="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />  
+<img alt=".NET" title=".NET" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/dotnet/512BD4" />
+<img alt="C#" title="C#" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/csharp/239120" />
+<img alt="Visual Studio" title="Visual Studio" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
+<img alt="Visual Studio Code" title="Visual Studio Code" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+<img alt="SQL Server" title="SQL Server" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+<img alt="MySQL" title="MySQL" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/mysql/4479A1" />
+<img alt="Mongo DB" title="Mongo DB" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/mongodb/47A248" />
+<img alt="TypeScript" title="TypeScript" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/typescript/3178C6" />
+<img alt="Angular" title="Angular" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/angular/DD0031" />
+<img alt="Swagger" title="Swagger" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/swagger/85EA2D" />
+<img alt="Postman" title="Postman" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/postman/FF6C37" />
+<img alt="Git" title="Git" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/git/F05032" />
+<img alt="HTML 5" title="HTML 5" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/html5/E34F26" />
+<img alt="CSS 3" title="CSS 3" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/css3/1572B6" />
+<img alt="SVG" title="SVG" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/svg/FFB13B" />
+<img alt="JavaScript" title="JavaScript" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+<img alt="JQuery" title="JQuery" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/jquery/0769AD" />
+<img alt="Dart" title="Dart" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/dart/0175C2" />
+<img alt="Flutter" title="Flutter" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/flutter/02569B" />
+<img alt="App Store" title="Apple App Store" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/appstore/0D96F6" />
+<img alt="Google Play" title="Google Play Store" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/googleplay/414141" />
+<img alt="Terraform" title="Terraform" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/terraform/7B42BC" />
+<img alt="NodeJS" title="Node JS" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/nodedotjs/339933" />
+<img alt="Python" title="Python" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/python/3776AB" />
+<img alt="GitHub" title="GitHub" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/github/181717" />
+<img alt="Azure DevOps" title="Azure DevOps" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/azuredevops/0078D7" />
+<img alt="Microsoft Azure" title="Microsoft Azure" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/microsoftazure/0078D4" />
+<img alt="Redis" title="Redis" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/redis/DC382D" />
+<img alt="SauceLabs" title="Sauce Labs" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/saucelabs/E2231A" />
+<img alt="LeetCode" title="LeetCode" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/leetcode/FFA116" />
+<img alt="HackerRank" title="HackerRank" height="32" width="32" style="padding:0px 10px 10px 0px;" src="https://cdn.simpleicons.org/hackerrank/00EA64" />
+</p>
 
 #  
 
-<p>
 
-### Stats
+### Stats  
 ---
 
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonmauss&show_icons=true&theme=github_dark)
@@ -75,8 +76,6 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 ![Jason's GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=github_dark&border_radius=4.5)
 
 ![Jason's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jasonmauss&theme=github_dark)
-
-</p>
 
 #   
 
