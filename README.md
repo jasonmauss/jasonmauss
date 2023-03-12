@@ -56,9 +56,9 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <p>
 ### Stats
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmauss&show_icons=true&theme=gruvbox)
+[Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasonmauss&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=gruvbox&border_radius=4.5) -->
+[Jason's GitHub Streak](https://streak-stats.demolab.com?user=jasonmauss&theme=gruvbox&border_radius=4.5) -->
 </p>
 
 <p>
