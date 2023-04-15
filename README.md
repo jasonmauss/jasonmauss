@@ -80,7 +80,7 @@ As far as my career as a developer goes. Here's what the timeline looks like:
 <p>
 What else can I say?
 
-- 🔭 If I'm not writing code for work, I'm probably doing some [LeetCode](https://leetcode.com/jamauss/) or [HackerRank](https://www.hackerrank.com/jason_mauss) challenges.
+- 🔭 If I'm not writing code for work, I'm probably doing some [LeetCode](https://leetcode.com/jamauss/) or [HackerRank](https://www.hackerrank.com/jason_mauss) or CoderPad challenges.
 - 🌱 Currently learning Flutter, Python, the wide world of Azure, and MongoDB
 - 💬 Are you a junior looking for a mentor? Contact me.
 - 📫 How to reach me: my firstname.lastname at Gmail
