@@ -10,7 +10,7 @@ These days if I'm not hacking on the keyboard I might be flying drones, watching
 </p>
 
 <p>
-As far as my career as a developer goes. Here's what the timeline looks like:
+As far as my career as a developer goes. Here's what the timeline looks like. I'll try to keep this up to date:
 
 - 1995-96: `True BASIC` and `QBASIC` (and playing Solitaire, Minsweeper and loads of SkiFree, let's be honest)
 - 1996-97: `Turbo Pascal`, `Turbo C++` and `Delphi`
