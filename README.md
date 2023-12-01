@@ -12,7 +12,7 @@ These days if I'm not hacking on the keyboard I might be flying drones, watching
 <p>
 As far as my career as a developer goes. Here's what the timeline looks like. I'll try to keep this up to date:
 
-- 1995-96: `True BASIC` and `QBASIC` (and playing Solitaire, Minsweeper and loads of SkiFree, let's be honest)
+- 1995-96: `True BASIC` and `QBASIC` (and playing Solitaire, Minesweeper and loads of SkiFree, let's be honest)
 - 1996-97: `Turbo Pascal`, `Turbo C++` and `Delphi`
 - 1998: `Visual Basic 4/5` (first real programming job after high school)
 - 1999: `HTML`, `CSS`, and `classic ASP` with `VBScript` and `JavaScript`. `ActiveX` and `COM/DCOM`. `T-SQL`/`PL-SQL`/`MS Access`. Just got into `DAO` as it was being replaced by `ADO`. So long Jet Database Engine! Oh, and also `Visual Source Safe`. #LongLiveSourceSafe #JustKidding #NotReally
